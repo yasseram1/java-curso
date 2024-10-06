@@ -1,0 +1,10 @@
+Sistema de Gestión de Animales de un Zoológico
+Estás encargado de desarrollar un sistema para gestionar los animales de un zoológico.
+El zoológico tiene diferentes tipos de animales, y cada uno de ellos tiene comportamientos comunes,
+como comer y moverse.
+Sin embargo, cada tipo de animal tiene una forma diferente de moverse (volar, caminar, nadar, etc.).
+
+
+1. Crear clase abstracta Animal
+2. Crear los metodos para moverse el cual depende del tipo de animal y el metodo para comer que es comun para todos los tipos de animales
+3. Crear clases de Ave, Tigre, Pez

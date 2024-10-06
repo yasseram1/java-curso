@@ -1,0 +1,17 @@
+
+Ejercicio Práctico: Control Remoto para Dispositivos Electrónicos
+Descripción:
+Crea una interfaz llamada RemoteControl que contenga los siguientes métodos:
+
+turnOn(): Enciende el dispositivo.
+turnOff(): Apaga el dispositivo.
+volumeUp(): Sube el volumen del dispositivo.
+volumeDown(): Baja el volumen del dispositivo.
+Luego, implementa esta interfaz en tres clases: TV, Radio. Cada clase debe proporcionar su propia implementación de estos métodos, simulando las acciones correspondientes
+para cada tipo de dispositivo.
+
+1. Crear una interfaz RemotoControl [X]
+2. definir los metodos [X]
+3. Crear clases TV y Radio [X]
+4. Implementar la interfaz en las clases creadas
+5. Implementar los metodos en las clases

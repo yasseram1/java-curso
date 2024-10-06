@@ -1,0 +1,32 @@
+# Ignorar directorios de construcción
+target/
+build/
+dist/
+test/
+
+# Ignorar archivos de configuración de NetBeans
+nbproject/
+*.nb-gradle/
+*.iml
+
+# Ignorar archivos de compilación
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos temporales
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Ignorar archivos de salida de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de caché
+/.cache/
